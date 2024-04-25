@@ -1,0 +1,156 @@
+.lunch-special-container {
+  width: 100%;
+  max-width: 400px;
+  font-family: 'Nunito', sans-serif;
+  border: 1px solid #cccccc;
+  margin: auto;
+}
+
+.lunch-header {
+  background-color: #34467B;
+  color: white;
+  padding: 2%;
+  letter-spacing: -0.02em;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.lunch-body {
+  padding: 2%;
+}
+
+.lunch-title {
+  color: #34467B;
+  font-weight: 1000;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.lunch-date {
+  margin-bottom: 10px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.lunch-description {
+  margin-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+  letter-spacing: -0.02em;
+  font-size: 12px;
+}
+
+.lunch-image {
+  display: block; 
+  width: 40%;
+  height: auto;
+  border: none;
+  margin-bottom: 20px;
+  margin-left: auto;  
+  margin-right: auto;
+}
+
+.reserve-button {
+  background-color: #34467B;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 1000;
+  width: 80%;
+  box-sizing: border-box;
+  margin-bottom: 3%;
+  margin-left: 10%;
+  letter-spacing: -0.02em;
+}
+
+.reserve-button:hover {
+  background-color: #23305e;
+}
+
+.lunch-details > p {
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: -0.02em;
+  font-size: 14px;
+}
+
+.lunch-time,
+.lunch-price,
+.lunch-place {
+  text-align: center;
+  line-height: 1.5em;
+  letter-spacing: -0.02em;
+  font-size: 14px;
+}
+
+.people-select {
+  margin: 5% 5%;
+  padding: 2%;
+}
+
+.booking-page {
+  margin-top: 20px;
+  margin-bottom: 180px;
+  text-align: center;
+  width: 100%;
+}
+
+.book-button {
+  background-color: #34467B;
+  color: white;
+  padding: 4% 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80%;
+  margin-top: 15px;
+}
+
+.booking-information{
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+.homepage-button{
+  background-color: #34467B;
+  color: white;
+  padding: 4% 0%;
+  margin-top: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80%;
+}
+
+.confirmation {
+  margin-top: 100px;
+  margin-bottom: 250px;
+  text-align: center;
+}
+
+.customer-name-input {
+  width: 250px; 
+  padding: 3%;
+}
+
+.slots-info {
+  font-weight: bold;
+  color: #34467B;
+  text-align: center;
+}
+
+.slots-left{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 15%;
+}
